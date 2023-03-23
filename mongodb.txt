@@ -1,0 +1,56 @@
+> db.students.find().pretty()
+{
+        "_id" : ObjectId("641b8fa96e6fe47a0e45df40"),
+        "name" : "Amanda",
+        "home_state" : "New York",
+        "lucky_number" : 4,
+        "birthday" : {
+                "month" : 6,
+                "day" : 4,
+                "year" : 1989
+        }
+}
+{
+        "_id" : ObjectId("641b923e6e6fe47a0e45df41"),
+        "name" : "Ariel",
+        "home_state" : "New York",
+        "lucky_number" : 17,
+        "birthday" : {
+                "month" : 11,
+                "day" : 17,
+                "year" : 1994
+        }
+}
+{
+        "_id" : ObjectId("641b94484e760a2e6f7afac3"),
+        "name" : "Hunter",
+        "home_state" : "New York",
+        "lucky_number" : 7,
+        "birthday" : {
+                "month" : 8,
+                "day" : 7,
+                "year" : 2012
+        }
+}
+{
+        "_id" : ObjectId("641b953f4e760a2e6f7afac4"),
+        "name" : "Gerardo",
+        "home_state" : "New Jersey",
+        "lucky_number" : 7,
+        "birthday" : {
+                "month" : 7,
+                "day" : 25,
+                "year" : 1990
+        }
+}
+{
+        "_id" : ObjectId("641b957f4e760a2e6f7afac5"),
+        "name" : "Toby",
+        "home_state" : "New Jersey",
+        "lucky_number" : 9,
+        "birthday" : {
+                "month" : 9,
+                "day" : 9,
+                "year" : 1990
+        }
+}
